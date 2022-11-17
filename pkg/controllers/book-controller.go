@@ -8,7 +8,6 @@ import (
 	"net/http"
 	"strconv"
 	"github.com/nanichang/bookstore/pkg/utils"
-	"github.com/nanichang/bookstore/pkg/models"
 )
 
 var NewBook models.Book
